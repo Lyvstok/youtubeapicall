@@ -1,0 +1,10 @@
+img {
+ display: inline-block;
+  vertical-align: top;
+  margin-bottom: 50px;
+}
+h3 {
+  display: inline-block;
+  vertical-align: top;
+  width: 70%;
+}
