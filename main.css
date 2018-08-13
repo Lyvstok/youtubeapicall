@@ -1,5 +1,12 @@
 body {
- background-color: white;
+color: white
+}
+.content {
+  background-color: rgba(0,0,0,0.65);
+  text-align: center;
+}
+.js-query {
+  margin-left: 20%;
 }
 img {
  display: inline-block;
@@ -10,4 +17,12 @@ h3 {
   display: inline-block;
   vertical-align: top;
   width: 70%;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: lightslategray;
+  text-decoration: underline;
 }
